@@ -1,0 +1,14 @@
+Chelsea Runtime
+│
+├── Kernel
+├── Lifecycle Manager
+├── Scheduler
+├── Planner
+├── Task Queue
+├── Executor
+├── Logger
+├── Configuration
+├── Plugin Registry
+├── Event Bus
+├── Engineering Journal
+└── Runtime Monitor
