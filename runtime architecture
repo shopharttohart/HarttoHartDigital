@@ -1,0 +1,15 @@
+Chelsea OS
+        │
+        ▼
+Chelsea Runtime
+        │
+ ┌──────┼────────────────────┐
+ ▼      ▼                    ▼
+Kernel Scheduler         Planner
+ │        │                   │
+ ▼        ▼                   ▼
+Queue  Executor         Policy Engine
+ │        │                   │
+ └────────┼───────────────────┘
+          ▼
+      Engineering Journal
