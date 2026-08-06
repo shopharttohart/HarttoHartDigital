@@ -1,0 +1,37 @@
+Chelsea Runtime
+
+↓
+
+Load Config
+
+↓
+
+Initialize Logger
+
+↓
+
+Initialize Journal
+
+↓
+
+Load Plugins
+
+↓
+
+Initialize Scheduler
+
+↓
+
+Initialize Planner
+
+↓
+
+Initialize Queue
+
+↓
+
+Initialize Executor
+
+↓
+
+Runtime Running
