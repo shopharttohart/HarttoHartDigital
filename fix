@@ -1,2 +1,3 @@
 git status
 git fetch origin
+git pull --rebase origin main
