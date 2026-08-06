@@ -1,1 +1,18 @@
 docs/adr/
+ADR-0001
+Repository Structure
+
+ADR-0002
+Chelsea Runtime Architecture
+
+ADR-0003
+Plugin System
+
+ADR-0004
+Engineering Manifest
+
+ADR-0005
+.cmo File Format
+
+ADR-0006
+Embroidery Rendering Pipeline
