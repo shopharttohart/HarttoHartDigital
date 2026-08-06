@@ -1,0 +1,10 @@
+RuntimeStarted
+PluginLoaded
+TaskQueued
+TaskStarted
+TaskCompleted
+TaskFailed
+JournalUpdated
+RepositoryChanged
+Heartbeat
+ShutdownRequested
