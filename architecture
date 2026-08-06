@@ -1,0 +1,12 @@
+Chelsea OS
+│
+├── Runtime
+├── Core
+├── Memory
+├── Planner
+├── Builder
+├── Reviewer
+├── Journal
+├── Policy
+├── Notifications
+└── Plugins
