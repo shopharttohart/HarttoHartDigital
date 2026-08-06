@@ -1,0 +1,29 @@
+[project]
+name = "HartToHartDigital"
+company = "Hart to Hart Digital"
+product = "Waneta"
+engineering_platform = "Chelsea OS"
+
+[build]
+language = "Rust"
+edition = "2024"
+
+[automation]
+continuous = true
+format = true
+lint = true
+test = true
+documentation = true
+
+[policy]
+feature_branch_commits = true
+protected_branch_merges = false
+major_architecture_changes = "approval"
+public_api_changes = "approval"
+
+[notifications]
+email = "shopharttohart@gmail.com"
+
+[cmo]
+extension = ".cmo"
+version = "0.1"
