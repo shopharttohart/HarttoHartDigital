@@ -1,0 +1,49 @@
+HartToHartDigital/
+│
+├── Cargo.toml
+├── rust-toolchain.toml
+├── .gitignore
+├── README.md
+├── VISION.md
+├── CHELSEA.md
+├── ENGINEERING.md
+├── ROADMAP.md
+├── CHANGELOG.md
+├── LICENSE
+├── engineering.toml
+│
+├── apps/
+│   └── waneta/
+│       ├── Cargo.toml
+│       └── src/
+│           └── main.rs
+│
+├── crates/
+│   ├── chelsea-runtime/
+│   ├── chelsea-core/
+│   ├── shared/
+│   ├── cmo/
+│   ├── embroidery-engine/
+│   └── ui/
+│
+├── docs/
+│   ├── adr/
+│   ├── architecture/
+│   ├── engineering/
+│   └── specifications/
+│
+├── standards/
+│
+├── tools/
+│
+├── .github/
+│   └── workflows/
+│       └── build.yml
+│
+└── .codex/
+    ├── AGENTS.md
+    ├── CONTEXT.md
+    ├── STANDARDS.md
+    ├── WORKFLOW.md
+    ├── TASKS.md
+    └── PROMPTS.md
