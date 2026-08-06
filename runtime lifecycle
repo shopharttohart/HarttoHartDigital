@@ -1,0 +1,21 @@
+Boot
+↓
+Read engineering.toml
+↓
+Initialize Logger
+↓
+Initialize Event Bus
+↓
+Initialize Journal
+↓
+Load Plugins
+↓
+Initialize Scheduler
+↓
+Initialize Planner
+↓
+Initialize Queue
+↓
+Initialize Executor
+↓
+Running
