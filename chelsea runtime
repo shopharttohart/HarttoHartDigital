@@ -1,0 +1,21 @@
+chelsea-runtime
+│
+├── runtime
+│
+├── scheduler
+│
+├── planner
+│
+├── queue
+│
+├── executor
+│
+├── lifecycle
+│
+├── logger
+│
+├── configuration
+│
+├── plugin registry
+│
+└── runtime state
